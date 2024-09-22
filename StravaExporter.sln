@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StravaExporter.App", "StravaExporter.App\StravaExporter.App.csproj", "{685AAFCF-F85D-4389-A426-85CB6D972393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StravaExporter.Common", "StravaExporter.Common\StravaExporter.Common.csproj", "{DC7A772F-5D96-4504-BB61-0D8CF7692A66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StravaExporter.UI", "StravaExporter.UI\StravaExporter.UI.csproj", "{B53A7199-F5ED-45CC-8784-6469AD375265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{685AAFCF-F85D-4389-A426-85CB6D972393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685AAFCF-F85D-4389-A426-85CB6D972393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685AAFCF-F85D-4389-A426-85CB6D972393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685AAFCF-F85D-4389-A426-85CB6D972393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC7A772F-5D96-4504-BB61-0D8CF7692A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7A772F-5D96-4504-BB61-0D8CF7692A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7A772F-5D96-4504-BB61-0D8CF7692A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7A772F-5D96-4504-BB61-0D8CF7692A66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B53A7199-F5ED-45CC-8784-6469AD375265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B53A7199-F5ED-45CC-8784-6469AD375265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B53A7199-F5ED-45CC-8784-6469AD375265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B53A7199-F5ED-45CC-8784-6469AD375265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

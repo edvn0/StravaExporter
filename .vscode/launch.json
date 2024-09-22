@@ -1,0 +1,17 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            // Standard c# vscode launch config
+            "name": ".NET Core Launch (web)",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/StravaExporter.UI/bin/Any CPU/Debug/net8.0/StravaExporter.UI.exe",
+            "args": [],
+            "cwd": "${workspaceFolder}/StravaExporter.UI",
+        }
+    ]
+}
