@@ -9,7 +9,8 @@
             "name": ".NET Core Launch (web)",
             "type": "coreclr",
             "request": "launch",
-            "program": "${workspaceFolder}/StravaExporter.UI/bin/Any CPU/Debug/net8.0/StravaExporter.UI.exe",
+            "preLaunchTask": "dotnet: build",
+            "program": "${workspaceFolder}/StravaExporter.UI/bin/Debug/net8.0/StravaExporter.UI.exe",
             "args": [],
             "cwd": "${workspaceFolder}/StravaExporter.UI",
         }
